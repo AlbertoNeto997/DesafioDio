@@ -1,0 +1,5 @@
+Olá, me chamo Alberto Nascimento e sou iniciante no ambinto de programação.
+Hoje, foco os meus estudos na parte de desenvolvimento front-end.
+Este diretório foi criado com a simples finalidade de praticar o uso da plataforma.
+
+Até.
